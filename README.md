@@ -29,7 +29,7 @@ Download now and share your moments with friends. 🚀📲
 
 ## Visit Our Website
 
-Explore more about Sheeta on our website: [Sheeta Website](https://norasahmedx.web.app/mobile/sheeta). Get the latest updates, announcements, and additional resources.
+Explore more about Sheeta on our website: [Sheeta Website](https://norasahmedx.web.app/mobile/sheeta.html). Get the latest updates, announcements, and additional resources.
 
 ## Download Sheeta Today
 

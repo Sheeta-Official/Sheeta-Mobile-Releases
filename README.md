@@ -35,7 +35,7 @@ Explore more about Sheeta on our website: [Sheeta Website](https://norasahmedx.w
 
 Embark on a visual journey with Sheeta and share your world with a community that appreciates the art of storytelling through images. Download Sheeta today and start expressing yourself in a whole new way.
 
-[Download Sheeta on Google Play Store](https://github.com/Sheeta-Official/Sheeta-Public/releases/tag/v0.1.2) | [Download Sheeta on App Store](https://github.com/Sheeta-Official/Sheeta-Public/releases/tag/v0.1.2)
+[Download Sheeta on Google Play Store](/Sheeta-Official/Sheeta-Mobile-Releases/releases/download/v0.1.1/sheeta-v0.1.1.apk) | [Download Sheeta on App Store](/Sheeta-Official/Sheeta-Mobile-Releases/releases/download/v0.1.1/sheeta-v0.1.1.apk)
 
 ## Support
 

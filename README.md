@@ -36,7 +36,7 @@ Explore more about Sheeta on our website: [Sheeta Website](https://norasahmedx.w
 
 Embark on a visual journey with Sheeta and share your world with a community that appreciates the art of storytelling through images.
 
-**Latest Version: v0.1.2 (Beta Version) - [Download Now](/Sheeta-Official/Sheeta-Mobile-Releases/releases/download/v0.1.2/sheeta-v0.1.2.apk)**
+**[Latest Version: v0.1.2 (Beta Version)](/Sheeta-Official/Sheeta-Mobile-Releases/releases/download/v0.1.2/sheeta-v0.1.2.apk)**
 
 [Download Sheeta v0.1.1 (Beta Version)](/Sheeta-Official/Sheeta-Mobile-Releases/releases/download/v0.1.1/sheeta-v0.1.1.apk)
 

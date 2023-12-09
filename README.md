@@ -6,9 +6,9 @@
 
 - [Description](#description)
 - [Key Features](#key-features)
+- [Join our Beta Testing Community on WhatsApp](#join-our-beta-testing-community-on-whatsapp)
 - [Visit Our Website](#visit-our-website)
 - [Download Sheeta Today](#download-sheeta-today)
-- [Join our Beta Testing Community on WhatsApp](#join-our-beta-testing-community-on-whatsapp)
 - [Support](#support)
 
 ## Description
@@ -28,6 +28,10 @@ Download now and share your moments with friends. 🚀📲
 
 - **Cross-Platform Accessibility:** Sheeta is available on both Android and iOS, ensuring everyone can join in the fun of photo sharing.
 
+## Join our Beta Testing Community on WhatsApp
+
+Be part of our exclusive Sheeta Beta Testing Community on WhatsApp! Share your feedback, report issues, and connect with fellow testers. [Join Now](https://chat.whatsapp.com/HOgrtctbuuC5bVuP7QHcab) (Include the link to your WhatsApp group invitation here)
+
 ## Visit Our Website
 
 Explore more about Sheeta on our website: [Sheeta Website](https://norasahmedx.web.app/mobile/sheeta.html). Get the latest updates, announcements, and additional resources.
@@ -39,10 +43,6 @@ Embark on a visual journey with Sheeta and share your world with a community tha
 **[Download The Latest Version: v0.1.2 (Beta Version)](https://github.com/Sheeta-Official/Sheeta-Mobile-Releases/releases/tag/v0.1.2)**
 
 [Download Sheeta v0.1.1 (Beta Version)](https://github.com/Sheeta-Official/Sheeta-Mobile-Releases/releases/tag/v0.1.1)
-
-## Join our Beta Testing Community on WhatsApp
-
-Be part of our exclusive Sheeta Beta Testing Community on WhatsApp! Share your feedback, report issues, and connect with fellow testers. [Join Now](https://chat.whatsapp.com/HOgrtctbuuC5bVuP7QHcab) (Include the link to your WhatsApp group invitation here)
 
 ## Support
 

@@ -8,6 +8,7 @@
 - [Key Features](#key-features)
 - [Visit Our Website](#visit-our-website)
 - [Download Sheeta Today](#download-sheeta-today)
+- [Join our Beta Testing Community on WhatsApp](#join-our-beta-testing-community-on-whatsapp)
 - [Support](#support)
 
 ## Description
@@ -33,9 +34,15 @@ Explore more about Sheeta on our website: [Sheeta Website](https://norasahmedx.w
 
 ## Download Sheeta Today
 
-Embark on a visual journey with Sheeta and share your world with a community that appreciates the art of storytelling through images. Download Sheeta today and start expressing yourself in a whole new way.
+Embark on a visual journey with Sheeta and share your world with a community that appreciates the art of storytelling through images.
 
-[Download Sheeta on Google Play Store](/Sheeta-Official/Sheeta-Mobile-Releases/releases/download/v0.1.1/sheeta-v0.1.1.apk) | [Download Sheeta on App Store](/Sheeta-Official/Sheeta-Mobile-Releases/releases/download/v0.1.1/sheeta-v0.1.1.apk)
+**Latest Version: v0.1.2 (Beta Version) - [Download Now](/Sheeta-Official/Sheeta-Mobile-Releases/releases/download/v0.1.2/sheeta-v0.1.2.apk)**
+
+[Download Sheeta v0.1.1 (Beta Version)](/Sheeta-Official/Sheeta-Mobile-Releases/releases/download/v0.1.1/sheeta-v0.1.1.apk)
+
+## Join our Beta Testing Community on WhatsApp
+
+Be part of our exclusive Sheeta Beta Testing Community on WhatsApp! Share your feedback, report issues, and connect with fellow testers. [Join Now](https://chat.whatsapp.com/HOgrtctbuuC5bVuP7QHcab) (Include the link to your WhatsApp group invitation here)
 
 ## Support
 

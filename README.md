@@ -30,7 +30,7 @@ Download now and share your moments with friends. 🚀📲
 
 ## Join our Beta Testing Community on WhatsApp
 
-Be part of our exclusive Sheeta Beta Testing Community on WhatsApp! Share your feedback, report issues, and connect with fellow testers. [Join Now](https://chat.whatsapp.com/HOgrtctbuuC5bVuP7QHcab) (Include the link to your WhatsApp group invitation here)
+Be part of our exclusive Sheeta Beta Testing Community on WhatsApp! Share your feedback, report issues, and connect with fellow testers. [Join Now](https://chat.whatsapp.com/HOgrtctbuuC5bVuP7QHcab)
 
 ## Visit Our Website
 

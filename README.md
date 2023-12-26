@@ -29,6 +29,14 @@ Download now and share your moments with friends. 🚀📲
 - **Show replies:** Now you can show the replies was published on a comment
 - **Show gallery in Sheeta app:** You don't need to open the gallery to pick any image now you can pick any image from the gallery in Sheeta
 
+<br>
+<br>
+
+<img src="https://res.cloudinary.com/duhdjmrqe/image/upload/v1703604071/mohamedmonster/projects-assets/Screenshot_1703603235_xdnubo.png" width="400" /> <img src="https://res.cloudinary.com/duhdjmrqe/image/upload/v1703604074/mohamedmonster/projects-assets/Screenshot_1703603229_pnqs6k.png" width="400" />
+
+<br>
+<br>
+
 ### Enhancements
 
 - **Application Security:** The application is very secured and more safer now.
